@@ -1,1 +1,1 @@
-# Smallest-Difference-In-Unsorted-Arrays-Implementation
+# Smallest-Difference-In-Unsorted-Arrays
